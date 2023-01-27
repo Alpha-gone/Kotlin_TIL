@@ -1,4 +1,4 @@
-package chapter03.section3
+package chapter03.section03
 
 fun main() {
     twoLambda({a, b -> "First $a $b"}, {"Second $it"})

@@ -1,4 +1,4 @@
-package chapter03.section3.funcargs
+package chapter03.section03.funcargs
 
 fun main() {
     val res1 = sum(3, 2)

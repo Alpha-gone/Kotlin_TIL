@@ -1,4 +1,4 @@
-package chapter03.section3.funcfunc
+package chapter03.section03.funcfunc
 
 fun main() {
     println("funcFunc: ${funcFunc()}")

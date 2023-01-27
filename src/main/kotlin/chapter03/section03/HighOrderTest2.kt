@@ -1,6 +1,6 @@
-package chapter03.section3
+package chapter03.section03
 
-import chapter03.section1.sum
+import chapter03.section01.sum
 
 fun main() {
     var result: Int

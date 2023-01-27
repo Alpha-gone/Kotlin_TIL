@@ -1,4 +1,4 @@
-package chapter03.section3
+package chapter03.section03
 
 fun main() {
     val res1 = funcParam(3, 2, ::sum)
